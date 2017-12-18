@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "yamasters-backendtree-webpack-plugin@1.2.5",
+        "scope": null,
+        "escapedName": "yamasters-backendtree-webpack-plugin",
+        "name": "yamasters-backendtree-webpack-plugin",
+        "rawSpec": "1.2.5",
+        "spec": "1.2.5",
+        "type": "version"
+      },
+      "K:\\home\\192.168.0.106\\www\\testHorse\\new-light-horse"
+    ]
+  ],
+  "_from": "yamasters-backendtree-webpack-plugin@1.2.5",
+  "_id": "yamasters-backendtree-webpack-plugin@1.2.5",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/yamasters-backendtree-webpack-plugin",
+  "_nodeVersion": "8.2.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/yamasters-backendtree-webpack-plugin-1.2.5.tgz_1505991067579_0.0925195598974824"
+  },
+  "_npmUser": {
+    "name": "vtlk",
+    "email": "vtlk2012@gmail.com"
+  },
+  "_npmVersion": "5.3.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "yamasters-backendtree-webpack-plugin@1.2.5",
+    "scope": null,
+    "escapedName": "yamasters-backendtree-webpack-plugin",
+    "name": "yamasters-backendtree-webpack-plugin",
+    "rawSpec": "1.2.5",
+    "spec": "1.2.5",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/yamasters-backendtree-webpack-plugin/-/yamasters-backendtree-webpack-plugin-1.2.5.tgz",
+  "_shasum": "98f555963139671a23e99ecc162aa83638a95ed0",
+  "_shrinkwrap": null,
+  "_spec": "yamasters-backendtree-webpack-plugin@1.2.5",
+  "_where": "K:\\home\\192.168.0.106\\www\\testHorse\\new-light-horse",
+  "author": {
+    "name": "vtlk",
+    "email": "vtlk2012@gmail.com",
+    "url": "http://telegram.me/vtlk7"
+  },
+  "bugs": {
+    "url": "https://github.com/brezitsky/yamasters-backendtree-webpack-plugin/issues",
+    "email": "vtlk2012@gmail.com"
+  },
+  "dependencies": {
+    "fs-extra": "^2.1.2",
+    "pretty": "^2.0.0"
+  },
+  "description": "Webpack plugin for creation file tree for Yamasters backend team",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-i3a+mwlNETwd7BR2QTJn6iN4znr8pwO4oE2WN8MIsMYWnMwbYNZsoltUz5s85LcDJ8VZlxlWhQ3i2EwjtZqUXg==",
+    "shasum": "98f555963139671a23e99ecc162aa83638a95ed0",
+    "tarball": "https://registry.npmjs.org/yamasters-backendtree-webpack-plugin/-/yamasters-backendtree-webpack-plugin-1.2.5.tgz"
+  },
+  "gitHead": "be373a1c68e20dcd55478f4db8e28eef44b59f6d",
+  "homepage": "https://github.com/brezitsky/yamasters-backendtree-webpack-plugin#readme",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "php",
+    "yamasters"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "vtlk",
+      "email": "vtlk2012@gmail.com"
+    }
+  ],
+  "name": "yamasters-backendtree-webpack-plugin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brezitsky/yamasters-backendtree-webpack-plugin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.5"
+}
